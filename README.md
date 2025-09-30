@@ -6,12 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfused07&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfused07&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfused07) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mubashir1998) 
