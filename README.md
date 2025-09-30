@@ -13,9 +13,10 @@
 ---
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/mfused07)  
-[Medium](https://medium.com/@mubashir1998)  
-[GitHub](https://github.com/mfused07)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfused07) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mubashir1998) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/mfused07) 
+
 
 ---
 
