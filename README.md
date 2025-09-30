@@ -15,6 +15,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mfused07) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mubashir1998) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=vercel&logoColor=white)](https://mfused07.github.io/)  
+
 
 
 ---
